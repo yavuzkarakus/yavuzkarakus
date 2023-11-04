@@ -1,1 +1,1 @@
-![GitHub Pin Thumbnail]([https://github.com/yavuzkarakus/yavuzkarakus/blob/main/github-pin.jpg](https://github.com/yavuzkarakus/yavuzkarakus/blob/main/github-pin-picture.jpg)https://github.com/yavuzkarakus/yavuzkarakus/blob/main/github-pin-picture.jpg)
+![GitHub Pin Thumbnail](https://github.com/yavuzkarakus/yavuzkarakus/blob/main/github-pin-picture.jpg)
